@@ -5,7 +5,7 @@ width="30" alt="Canadian Goose" style="vertical-align:middle">
 <br>Full Stack Developer at <a href="https://rentrax.com">Rentrax Software Inc</a><img
             src="https://media.giphy.com/media/d8d7kW0JUCUDwHpDsk/giphy.gif" width="30" style="vertical-align:middle" /></em></p>
 
-[![Linkedin: Henry](https://img.shields.io/badge/-Henry_Zhou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry17/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Henry](https://img.shields.io/badge/-Henry_Zhou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry17/)](https://www.linkedin.com/in/henry17/)
 ### <img src="https://media.giphy.com/media/djaEjIn537kQsKfo8p/giphy.gif" style="vertical-align:middle" height="30"> A little something about me...
 
 ```typescript
