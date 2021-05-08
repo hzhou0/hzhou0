@@ -12,7 +12,7 @@ width="30" alt="Canadian Goose" style="vertical-align:middle">
 const Henry = {
   pronouns: "he" | "him",
   languages: [Bash, C++, Javascript, Typescript, Ruby, Python, Discordance],
-  tools: [Vue, Vuex, Node, Rails, Laravel, Jest, Tensorflow],
+  tools: [React, Vue, Express, Rails, Laravel, Mysql, Mongodb, Tensorflow],
   architecture: ["MCV", "event-driven"],
   javascript: "bad",
   python: "good",
